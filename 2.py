@@ -4,5 +4,5 @@ lc=str2[-1]
 c=0
 for i in str1:
     if(i==lc):
-        c+=1
+        c+=str1
 print(c)
